@@ -14,7 +14,7 @@ monthly_challenges = {
     'september': 'Learn to solo on guitar',
     'october': '100 push ups a day.',
     'november': 'Write 1 minute of standup.',
-    'december': 'Learn PHP.'
+    'december': None
 }
 
 
